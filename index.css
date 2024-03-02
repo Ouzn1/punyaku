@@ -1,0 +1,36 @@
+*, html body {
+    height: 100vdh;
+    margin: 0;
+    padding: 0;
+}
+.judul {   
+    background-color: rgb(14, 83, 12);
+}
+.h1 {
+  
+    display: flex;
+    justify-content: center;
+align-items: center;
+font-family: 'GraffitiFont', cursive;
+font-size: 3em;
+      text-shadow: 2px 2px 4px rgb(255, 255, 255);
+      letter-spacing: 5px;
+  
+}
+
+.h2 {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'GraffitiFont', cursive;
+font-size: 1em;
+      text-shadow: 2px 2px 4px rgba(255, 241, 241, 0.5);
+      letter-spacing: 8px;
+      margin: 0;
+}
+.foto{
+    position: absolute;
+  left: 8%;
+   
+}
